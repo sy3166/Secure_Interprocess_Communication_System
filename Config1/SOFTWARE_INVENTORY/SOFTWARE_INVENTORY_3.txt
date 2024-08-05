@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<rpc>
+    <get>
+        Software inventory 3
+    </get>
+    <version>1</version>
+</rpc>

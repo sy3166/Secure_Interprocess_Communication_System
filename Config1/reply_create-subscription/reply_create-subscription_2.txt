@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply create sub 2
+    </get>
+</rpc-reply>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>

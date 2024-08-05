@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<rpc>
+    <get>
+        install software 2
+    </get>
+</rpc>

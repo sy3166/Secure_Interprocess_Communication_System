@@ -1,0 +1,2646 @@
+<?xml version="1.0"?>
+<hello>reply hello yash3</hello>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply Software inventory 1
+    </get>
+    <version>5.02</version>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<hello>reply hello yash1</hello>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply Software inventory 1
+    </get>
+    <version>5.02</version>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 2
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 1
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply get config 3
+    </get>
+</rpc-reply>
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply edit config 2
+    </get>
+</rpc-reply>

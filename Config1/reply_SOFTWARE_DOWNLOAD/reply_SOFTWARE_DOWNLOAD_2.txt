@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<rpc-reply>
+    <get>
+        reply Software Download 2
+    </get>
+  
+</rpc-reply>
